@@ -1,0 +1,23 @@
+{
+    "template":"page.htm",
+    "footer":{
+    },
+    "header":[
+    ],
+    "main":[
+    ],
+    "script":{
+        "template":"script",
+        "scripts":[
+            "/lib/lib.js",
+            "*.js",
+        ]
+    },
+    "style":{
+        "template":"style",
+        "styles":[
+            "/styles/bootstrap.css",
+            "*.css"
+        ]
+    }
+}

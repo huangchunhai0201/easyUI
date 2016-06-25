@@ -1,0 +1,20 @@
+form table{
+    border-collapse:collapse;
+}
+form table td{
+    height:35px;
+    line-height: 35px;
+    border:1px solid #eee;
+}
+form table td .labelWidth{
+    display: inline-block;
+    width:20%;
+    box-sizing: border-box;
+    padding: 0 10px;
+}
+form table td span.textbox{
+    width:75%!important;
+}
+form table td span.textbox input,form table td span.textbox textarea{
+    width:100%!important;
+}

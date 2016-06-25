@@ -1,0 +1,895 @@
+{
+  "OperateFlag": true,
+  "OperateInfo": "操作成功",
+  "TotalCount": 1,
+  "PageCount": 1,
+  "List": [
+    {
+      "id": "0",
+      "text": "海安县交通运输局",
+      "value": null,
+      "state": null,
+      "check": false,
+      "iconCls": "icon-home",
+      "selected":true,
+      "children": [
+        {
+          "id": "112",
+          "text": "海安县2015年农村公路桥梁建设工程（一期）指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "113",
+              "text": "2015农村公路桥梁建设总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "114",
+                  "text": "2015农村公路桥梁建设承包商",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "text": "海安县2015年农村公路桥梁建设工程（二期）指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "116",
+              "text": "2015农村公路桥梁建设总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "117",
+                  "text": "2015NQSG2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "118",
+                  "text": "2015NQSG3标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "119",
+                  "text": "2015NQSG4标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "120",
+                  "text": "2015NQSG5标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "121",
+                  "text": "2015NQSG6标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "122",
+          "text": "海安县老204国道维修工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "124",
+              "text": "海安县老204国道维修工程总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "125",
+                  "text": "海安县老204国道维修工程施工A1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "126",
+                  "text": "海安县老204国道维修工程施工A2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "text": "雅周现代农业园区道路建设提升工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "128",
+              "text": "雅周现代农业园区道路建设提升工程总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "129",
+                  "text": "雅周现代农业园区道路建设提升工程项目部",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "130",
+          "text": "353省道南莫连接线工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "131",
+              "text": "353省道南莫连接线工程总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "132",
+                  "text": "353省道南莫连接线工程项目部",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "text": "北凌河防洪封闭项目道路改造工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "134",
+              "text": "北凌河防洪封闭项目道路改造工程总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "135",
+                  "text": "北凌河防洪封闭项目道路改造工程项目部",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "text": "S353省道海安段建设工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "32",
+              "text": "管理中心",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "75",
+                  "text": "S353第一指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "23",
+                      "text": "S353J1总监办",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "25",
+                          "text": "S353A1标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        },
+                        {
+                          "id": "24",
+                          "text": "S353A2标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "76",
+                  "text": "S353第二指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "26",
+                      "text": "S353J2总监办",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "28",
+                          "text": "S353A3标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        },
+                        {
+                          "id": "29",
+                          "text": "S353A4标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "77",
+                  "text": "S353第三指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "27",
+                      "text": "S353J3总监办",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "30",
+                          "text": "S353A5标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        },
+                        {
+                          "id": "31",
+                          "text": "S353A6标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "140",
+                  "text": "353省道交通安全设施指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "136",
+                      "text": "353省道交通安全设施总监办",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "137",
+                          "text": "S353B1",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        },
+                        {
+                          "id": "138",
+                          "text": "S353B2",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        },
+                        {
+                          "id": "139",
+                          "text": "S353B3",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "91",
+                  "text": "S353第四指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "92",
+                      "text": "S353J4总监办",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "93",
+                          "text": "S353A7标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "109",
+                  "text": "S353第五指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "110",
+                      "text": "S353J5总监办",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "111",
+                          "text": "S353A8标",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "text": "海安县大桥建设工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "79",
+              "text": "管理中心",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "80",
+                  "text": "大桥项目第一指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "86",
+                      "text": "江苏东南交通工程咨询监理有限公司",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "83",
+                          "text": "新通扬河大桥",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-user",
+                          "children": []
+                        },
+                        {
+                          "id": "84",
+                          "text": "老通扬河大桥",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        },
+                        {
+                          "id": "85",
+                          "text": "通榆路大桥",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "81",
+                  "text": "大桥项目第二指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "87",
+                      "text": "南通市交通建设咨询监理有限公司",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "89",
+                          "text": "焦港河大桥",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "82",
+                  "text": "大桥项目第三指挥部",
+                  "value": null,
+                  "state": "closed",
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": [
+                    {
+                      "id": "88",
+                      "text": "扬州华建交通工程咨询监理有限公司",
+                      "value": null,
+                      "state": "closed",
+                      "check": false,
+                      "iconCls": "icon-folder-brick",
+                      "children": [
+                        {
+                          "id": "90",
+                          "text": "团结大桥",
+                          "value": null,
+                          "state": null,
+                          "check": false,
+                          "iconCls": "icon-folder-brick",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "text": "海安县农村公路桥梁二期改造工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "95",
+              "text": "农桥总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "96",
+                  "text": "2013-NQ1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "97",
+                  "text": "2013-NQ2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "98",
+                  "text": "2014-NQ1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "text": "海安县2014年大中修工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "100",
+              "text": "大中修总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "101",
+                  "text": "大中修1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "102",
+                  "text": "大中修2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "text": "海安县白甸、晓星大道工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "104",
+              "text": "白甸、晓星大道总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "105",
+                  "text": "白甸、晓星大道施工单位",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "text": "海安县雅周工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "107",
+              "text": "雅周总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "108",
+                  "text": "雅周施工单位",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "text": "连申线（海安段）桥梁二期工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "143",
+              "text": "南通市交通建设咨询监理有限公司",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "144",
+                  "text": "江苏省交通工程集团有限公司",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "146",
+          "text": "海安县2015年农村公路大中小修及安保工程指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "147",
+              "text": "海安县2015年农村公路大中小修及安保工程总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "148",
+                  "text": "2015NLWXSG1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "149",
+                  "text": "2015NLWXSG2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "150",
+                  "text": "2015NLWXSG3标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "151",
+                  "text": "2015NLJASG1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "152",
+                  "text": "2015NLJASG2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "text": "2016年农村公路危桥改造工程项目指挥部",
+          "value": null,
+          "state": "closed",
+          "check": false,
+          "iconCls": "icon-folder-brick",
+          "children": [
+            {
+              "id": "154",
+              "text": "2016年农桥改造总监办",
+              "value": null,
+              "state": "closed",
+              "check": false,
+              "iconCls": "icon-folder-brick",
+              "children": [
+                {
+                  "id": "155",
+                  "text": "2016WQSG1标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "156",
+                  "text": "2016WQSG2标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "157",
+                  "text": "2016WQSG3标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                },
+                {
+                  "id": "158",
+                  "text": "2016WQSG4标",
+                  "value": null,
+                  "state": null,
+                  "check": false,
+                  "iconCls": "icon-folder-brick",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
