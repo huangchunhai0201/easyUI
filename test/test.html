@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/easyui-bt.css">
+    <link rel="stylesheet" href="../css/icon.css">
+    <link rel="stylesheet" href="../css/pithy.css">
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/jquery.easyui.min.js"></script>
+    <script src="../js/jquery.pithy.js"></script>
+    <style>
+        xmp {
+            padding: 16px;
+            font-size: 16px;
+            border-bottom: 1px solid #5919d8;
+        }
+        .split {
+            margin: 60px 0;
+        }
+    </style>
+</head>
+<body>
+<div class="pithy-container">
+    <xmp>属性很明显是一个变量，所以像有type: boolean这样的存在。</xmp>
+    <xmp>事件参数parameters</xmp>
+    <div class="split"></div>
+
+    <xmp>$.parser对象</xmp>
+    <xmp>  $.parser对象中属性 $.parser.auto  type:boolean  default:true description:Defines if to auto parse the easyui component.【定义是否自动解析easyUI组件】</xmp>
+    <xmp>  $.parser对像中事件 $.parser.onComplete parameters:context description:Fires when parser finishing its parse action.【当解析器完成的解析器动作触发。】</xmp>
+    <xmp>见源码src中jquery.parse.js</xmp>
+    <xmp>
+
+        console.log($.parser); => Object
+        console.log($.parser.auto); => true
+        console.log($.parser.onComplete); => function (_b) {}
+    </xmp>
+    <div class="split"></div>
+    <div class="pan1"></div>
+    <div class="pan2"></div>
+    <div class="main"></div>
+</div>
+
+<script>
+//    console.log($.parser);
+//    console.log($.parser.auto);
+//    console.log($.parser.onComplete);
+//    $.parser.onComplete = function() {
+//        console.log('complete');
+//    }
+//    $('.pan1').pagination({
+//        total: 2000,
+//        pageSize: 10
+//    });
+//    $.pithy.create_easyui({
+//        total: 2000,
+//        pageSize: 10,
+//        type: 'pagination'
+//    },'.pan1' );
+//    $.pithy.create_easyui([
+//        {
+//            type: 'linkbutton',
+//            iconCls: 'icon-search'
+//        },
+//        {
+//            type: 'linkbutton',
+//            iconCls: 'icon-search'
+//        }
+//    ],'.main');
+//    $.pithy.create_easyui(
+//            {
+//                type: 'grid'
+//            },'.main'
+//    );
+    $.pithy.create_easyui(
+            {
+                type: 'grid',
+                fields: [{
+                        name: 'name1',
+                        type: 'linkbutton',
+                        iconCls: 'icon-search'
+                    },
+                    {
+                        name: 'name2',
+                        type: 'progressbar',
+                        row: true,
+                        width: '400px',
+                        value: 60
+                    }
+                ]
+            },'.main'
+    );
+</script>
+</body>
+</html>
