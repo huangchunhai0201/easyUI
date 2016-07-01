@@ -55,6 +55,8 @@
                 td += '>';
                 var jTd = $(td);
                 jRow.append(jTd);
+                
+                //解析
                 buildField(field, jTd);
             }
             function buildField(field,jParent) {
